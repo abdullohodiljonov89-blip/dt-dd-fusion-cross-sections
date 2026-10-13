@@ -23,3 +23,7 @@ E_{\mathrm{cm}}=\frac{m_{\mathrm{T}}}{m_{\mathrm{D}}+m_{\mathrm{T}}}E_{\mathrm{l
 \]
 
 The converted energy is used for plotting against center-of-mass energy. The original laboratory energies and source-reported cross sections are retained in the raw dataset. The conversion does not modify the cross-section values.
+
+### Suspected anomalous measurements
+
+Five measurements from LA-1479 Table VI were excluded from the provisional analysis dataset because their reported cross sections appear inconsistent with nearby measurements: 24.89, 24.91, 24.96, 49.60, and 49.62 keV. The original reported values are preserved unchanged in `dt_measurements.csv`. The exclusions are provisional and do not establish that the source measurements are erroneous; the cause of the apparent discrepancies has not been independently verified. These points are therefore treated as a limitation of the present analysis rather than silently corrected.
