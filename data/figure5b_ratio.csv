@@ -1,0 +1,12 @@
+E_cm_keV,sigma_DT_interpolated_b,sigma_DD_total_b,ratio_DT_to_DDtotal,DT_interpolation_method,DT_flagged_points_excluded,DD_source_status
+9.970,0.024822,0.0005434,45.6795,log-linear,yes,point-by-point source match unverified
+14.970,0.142265,0.002351,60.5126,log-linear,yes,point-by-point source match unverified
+19.965,0.393314,0.005308,74.0984,log-linear,yes,point-by-point source match unverified
+24.960,0.830911,0.009132,90.9890,log-linear,yes,point-by-point source match unverified
+29.960,1.356695,0.013511,100.4141,log-linear,yes,point-by-point source match unverified
+34.955,2.050808,0.017996,113.9591,log-linear,yes,point-by-point source match unverified
+39.955,2.827216,0.022290,126.8379,log-linear,yes,point-by-point source match unverified
+44.955,3.584582,0.027300,131.3034,log-linear,yes,point-by-point source match unverified
+49.955,4.190020,0.031750,131.9691,log-linear,yes,point-by-point source match unverified
+54.950,4.656211,0.036450,127.7424,log-linear,yes,point-by-point source match unverified
+58.450,4.888135,0.039170,124.7928,log-linear,yes,point-by-point source match unverified
