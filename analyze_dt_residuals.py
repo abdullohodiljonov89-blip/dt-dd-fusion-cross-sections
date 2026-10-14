@@ -200,3 +200,5 @@ units, and model coefficients before using these results in the paper.
 
 if __name__ == "__main__":
     main()
+
+print("Residual analysis script is running.")
